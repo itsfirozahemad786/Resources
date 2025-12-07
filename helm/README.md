@@ -17,7 +17,7 @@ https://artifacthub.io/
 
 *`templates (dir):`* This is the place where you'll put all your manifest files. Everything in here will be passed on and created in Kubernetes.
 
-### Installing HELMm
+### Installing HELM
 
 ```
 curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
