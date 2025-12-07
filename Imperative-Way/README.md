@@ -71,5 +71,5 @@ a) ```--dry-run=client``` : This will not create the resource, instead, tell you
 b) ```-o yaml``` : This will output the resource definition in YAML format on screen.
 
 
-## Documentation : <a href="https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands/">kubectl-commands</a>
+## ddDocumentation : <a href="https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands/">kubectl-commands</a>
 
